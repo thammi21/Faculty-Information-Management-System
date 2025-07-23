@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Faculty Information Management System
 
 ## 🧠 Description
@@ -25,3 +26,7 @@ A web-based application designed to store, manage, and retrieve faculty records 
 ## 👤 Author
 **Mohammed Thameem**  
 [LinkedIn](https://linkedin.com/in/mohd-thameem) • [GitHub](https://github.com/thammi21)
+=======
+# Faculty-Information-Management-System
+Web-based system to manage faculty records using PHP and MySQL
+>>>>>>> fd3e098dbd0a06d2a5306307751b41925219c485
