@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Faculty Information Management System
 
 ## 🧠 Description
