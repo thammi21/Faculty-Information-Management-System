@@ -21,7 +21,19 @@ A web-based application designed to store, manage, and retrieve faculty records 
 4. Start Apache & MySQL → visit `localhost/faculty-management`
 
 ## 📸 Screenshots
-(Include screenshots inside `/screenshots/` folder)
+
+### 🔐 Login Panel
+![Login](screenshots/Login%20panel.fig.jpg)
+
+### 📊 Dashboard
+![Dashboard](screenshots/Dashboard.fig.jpg)
+
+### ➕ Add Faculty Data
+![Add Data](screenshots/Add%20data.fig.jpg)
+
+### 📤 Export as CSV
+![Export](screenshots/Export%20data%20as%20csv.fig.jpg)
+
 
 ## 👤 Author
 **Mohammed Thameem**  
